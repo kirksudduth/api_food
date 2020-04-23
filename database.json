@@ -43,35 +43,28 @@
       "ethnicity": "american"
     },
     {
-      "id": 8,
-      "name": "fried rice",
-      "category": "rice",
-      "ethnicity": "chinese"
-    },
-    {
       "id": 9,
       "name": "cinnamon rolls",
       "category": "dessert",
       "ethnicity": "american"
     },
-      {
-        "id": 10,
-        "name": "dumplings",
-        "category": "delicious",
-        "ethnicity": "chinese"
-      },
-      {
-        "id": 11,
-        "name": "funnel cakes",
-        "category": "delicious",
-        "ethnicity": "american"
-      },
-      {
-          "id": 12,
-          "name": "taco",
-          "category": "delicious",
-          "ethnicity": "mexican"
-      }
-    
+    {
+      "id": 10,
+      "name": "dumplings",
+      "category": "delicious",
+      "ethnicity": "chinese"
+    },
+    {
+      "id": 11,
+      "name": "funnel cakes",
+      "category": "delicious",
+      "ethnicity": "american"
+    },
+    {
+      "id": 12,
+      "name": "taco",
+      "category": "delicious",
+      "ethnicity": "mexican"
+    }
   ]
 }
