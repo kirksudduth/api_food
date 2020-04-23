@@ -1,7 +1,52 @@
 {
   "food": [
     {
-      "id": 1
+      "id": 1,
+      "name": "meatballs",
+      "category": "meat",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 2,
+      "name": "cheeseburger",
+      "category": "sandwich",
+      "ethnicity": "american"
+    },
+    {
+      "id": 3,
+      "name": "lo mein",
+      "category": "noodles",
+      "ethnicity": "chinese"
+    },
+    {
+      "id": 4,
+      "name": "fettucini alfredo",
+      "category": "noodles",
+      "ethnicity": "italian"
+    },
+    {
+      "id": 5,
+      "name": "shepherd's pie",
+      "category": "casserole",
+      "ethnicity": "american"
+    },
+    {
+      "id": 6,
+      "name": "turkey sandwich",
+      "category": "sandwich",
+      "ethnicity": "american"
+    },
+    {
+      "id": 7,
+      "name": "philly cheesesteak",
+      "category": "sandwich",
+      "ethnicity": "american"
+    },
+    {
+      "id": 8,
+      "name": "fried rice",
+      "category": "rice",
+      "ethnicity": "chinese"
     }
   ]
 }
