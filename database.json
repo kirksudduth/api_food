@@ -65,6 +65,12 @@
         "name": "funnel cakes",
         "category": "delicious",
         "ethnicity": "american"
+      },
+      {
+          "id": 12,
+          "name": "taco",
+          "category": "delicious",
+          "ethnicity": "mexican"
       }
     
   ]
