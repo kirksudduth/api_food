@@ -35,6 +35,18 @@
       "name": "turkey sandwich",
       "category": "sandwich",
       "ethnicity": "american"
+    },
+    {
+      "id": 7,
+      "name": "philly cheesesteak",
+      "category": "sandwich",
+      "ethnicity": "american"
+    },
+    {
+      "id": 8,
+      "name": "fried rice",
+      "category": "rice",
+      "ethnicity": "chinese"
     }
   ]
 }
