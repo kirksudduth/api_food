@@ -7,12 +7,6 @@
       "ethnicity": "italian"
     },
     {
-      "id": 2,
-      "name": "cheeseburger",
-      "category": "sandwich",
-      "ethnicity": "american"
-    },
-    {
       "id": 3,
       "name": "lo mein",
       "category": "noodles",
@@ -28,12 +22,6 @@
       "id": 5,
       "name": "shepherd's pie",
       "category": "casserole",
-      "ethnicity": "american"
-    },
-    {
-      "id": 6,
-      "name": "turkey sandwich",
-      "category": "sandwich",
       "ethnicity": "american"
     },
     {
