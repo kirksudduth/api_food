@@ -9,6 +9,7 @@ getAndRenderFood();
 
 document.getElementById("foodList").addEventListener("click", (event) => {
   if (event.target.id.startsWith("delete--")) {
-    console.log("deleteButton", event.target.id.split("--")[1]);
+    const foodID = event.target.id.split("--")[1];
+    foodAPI.deleteFood(foodID).then(getAndRenderFood);
   }
 });
